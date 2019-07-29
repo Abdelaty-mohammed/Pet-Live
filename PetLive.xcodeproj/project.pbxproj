@@ -13,7 +13,6 @@
 		073289E822EC441C00AB790A /* CSMessagesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073289E722EC441C00AB790A /* CSMessagesList.swift */; };
 		07881FBB22DB5A89006A0C2A /* CSCurrentProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07881FBA22DB5A89006A0C2A /* CSCurrentProfile.swift */; };
 		078CAE6022D56B13008C75DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078CAE5F22D56B13008C75DF /* AppDelegate.swift */; };
-		078CAE6222D56B14008C75DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 078CAE6122D56B13008C75DF /* ViewController.swift */; };
 		078CAE6522D56B14008C75DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078CAE6322D56B14008C75DF /* Main.storyboard */; };
 		078CAE6A22D56B15008C75DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 078CAE6822D56B15008C75DF /* LaunchScreen.storyboard */; };
 		078CAE7522D56E65008C75DF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 078CAE7422D56E65008C75DF /* GoogleService-Info.plist */; };
@@ -48,7 +47,6 @@
 		07881FBA22DB5A89006A0C2A /* CSCurrentProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSCurrentProfile.swift; sourceTree = "<group>"; };
 		078CAE5C22D56B13008C75DF /* BetLive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetLive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		078CAE5F22D56B13008C75DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		078CAE6122D56B13008C75DF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		078CAE6422D56B14008C75DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		078CAE6922D56B15008C75DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		078CAE6B22D56B15008C75DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -126,7 +124,6 @@
 				078CAE7822D57B69008C75DF /* Controller */,
 				078CAE7322D56CBA008C75DF /* Helper */,
 				078CAE5F22D56B13008C75DF /* AppDelegate.swift */,
-				078CAE6122D56B13008C75DF /* ViewController.swift */,
 				078CAE6322D56B14008C75DF /* Main.storyboard */,
 				07A0CA6322DAA5560027251A /* Assets.xcassets */,
 				078CAE6822D56B15008C75DF /* LaunchScreen.storyboard */,
@@ -333,7 +330,6 @@
 				07881FBB22DB5A89006A0C2A /* CSCurrentProfile.swift in Sources */,
 				07B5281822D6E4290091B3CD /* VCContainer.swift in Sources */,
 				07BF560D22D86CD000D77402 /* CSDealWithDB.swift in Sources */,
-				078CAE6222D56B14008C75DF /* ViewController.swift in Sources */,
 				07BCA45322DAF0A5005C1567 /* VCLoginAuth.swift in Sources */,
 				078E28BD22D8A997000EF6C8 /* CSPetCatogriesList.swift in Sources */,
 				07BCA44D22DABF16005C1567 /* CheckInternet.swift in Sources */,
